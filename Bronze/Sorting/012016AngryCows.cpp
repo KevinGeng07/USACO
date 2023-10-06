@@ -12,7 +12,7 @@ int main() {
     std::vector<int> positions(num_bales);
     for (int iter=0; iter < num_bales; iter++) {
         std::cin >> positions[iter];
-    }
+
 //    int num_bales{6};
 //
 //    std::vector<int> positions{8, 5, 6, 13, 3, 4};
